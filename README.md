@@ -1,24 +1,24 @@
 # Rendered-Speech-Recognition
 # Commands
-1. How are you?
+1. How are you? <br>
 Response: Greetings Array
-
-2. What is the weather today?
+<br><br>
+2. What is the weather today?<br>
 Response: Weather Array
-
-3. Open Google
+<br><br>
+3. Open Google<br>
 Response: Website Redirect to 'https://google.com'
-
-4. Open Youtube
+<br><br>
+4. Open Youtube<br>
 Response: Website Redirect to 'https://youtube.com'
-
-5. Open Facebook
+<br><br>
+5. Open Facebook<br>
 Response: Website Redirect to 'https://facebook.com'
-
-6. Open Upwork
+<br><br>
+6. Open Upwork<br>
 Response: Website Redirect to 'https://upwork.com'
-
-7. Open Twitter
+<br><br>
+7. Open Twitter<br>
 Response: Website Redirect to 'https://twitter.com'
-
+<br><br>
 # Feel free to add more!
